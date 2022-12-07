@@ -1,0 +1,26 @@
+MOCKUP link
+https://xd.adobe.com/view/ebcc0ae9-9c00-4e23-a5a1-7bb6a38460a3-be9f/
+
+
+METAS
+<link rel="canonical" href="https://www.ourtours.com/sales" />
+<meta name="keywords" content="travel,discounts,tours,vacations,vacation packages, playa">
+<meta name="description" content="El mejor precio, 50% de descuento en tu segundo ticket">
+<meta name="category" content="travel">
+<meta name="robots" content="index,follow">
+
+
+Open Graph - Mostrar tu contenido en Facebook
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.ourtours.com/sales" />
+<meta property="og:image" content="https://www.ourtours.com/rsc/images/sales.jpg" />
+<meta property="og:site_name" content="OurTours & Travel" />
+<meta property="og:description" content="Los mejores descuentos en actividades y tours al rededor del mundo.">
+
+
+Tailwind
+
+https://tailwindcss.com/
+
+cdn
+<script src="https://cdn.tailwindcss.com"></script>
